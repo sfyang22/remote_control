@@ -1,0 +1,13 @@
+--cpu Cortex-M7.fp.dp
+".\main.o"
+".\stm32h7xx_it.o"
+".\system_stm32h7xx.o"
+".\stm32h7xx_hal.o"
+".\stm32h7xx_hal_gpio.o"
+".\stm32h7xx_hal_rcc.o"
+".\stm32h7xx_hal_rcc_ex.o"
+".\startup_stm32h743xx.o"
+--library_type=microlib --strict --scatter ".\remote_Control.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\remote_Control.map" -o .\remote_Control.axf

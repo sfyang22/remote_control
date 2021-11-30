@@ -1,0 +1,10 @@
+.\objects\lcdconf_lin_template.o: Libraries\STemWin\Config\LCDConf_Lin_Template.c
+.\objects\lcdconf_lin_template.o: .\Libraries\STemWin\inc\GUI.h
+.\objects\lcdconf_lin_template.o: E:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\lcdconf_lin_template.o: .\Libraries\STemWin\inc\GUI_ConfDefaults.h
+.\objects\lcdconf_lin_template.o: .\Libraries\STemWin\Config\GUIConf.h
+.\objects\lcdconf_lin_template.o: .\Libraries\STemWin\inc\GUI_Type.h
+.\objects\lcdconf_lin_template.o: .\Libraries\STemWin\inc\LCD.h
+.\objects\lcdconf_lin_template.o: .\Libraries\STemWin\inc\Global.h
+.\objects\lcdconf_lin_template.o: .\Libraries\STemWin\inc\GUI_Version.h
+.\objects\lcdconf_lin_template.o: .\Libraries\STemWin\inc\GUIDRV_Lin.h

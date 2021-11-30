@@ -1,0 +1,9 @@
+.\objects\gui_x.o: Libraries\STemWin\OS\GUI_X.c
+.\objects\gui_x.o: .\Libraries\STemWin\inc\GUI.h
+.\objects\gui_x.o: E:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\gui_x.o: .\Libraries\STemWin\inc\GUI_ConfDefaults.h
+.\objects\gui_x.o: .\Libraries\STemWin\Config\GUIConf.h
+.\objects\gui_x.o: .\Libraries\STemWin\inc\GUI_Type.h
+.\objects\gui_x.o: .\Libraries\STemWin\inc\LCD.h
+.\objects\gui_x.o: .\Libraries\STemWin\inc\Global.h
+.\objects\gui_x.o: .\Libraries\STemWin\inc\GUI_Version.h
